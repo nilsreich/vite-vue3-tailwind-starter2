@@ -22,6 +22,7 @@ import ButtonRepo from '@/components/ButtonRepo.vue'
   <div class="pr-10 ml-5 mr-20 w-60 md:1/5 mt-20 text-gray-700 ">
   <div class="text-green-900 bg-green-100 h-10 px-4 py-3 text-sm rounded">Einleitung</div>
   <div class=" text-sm h-9 px-4 py-3 text-gray-500 hover:text-green-900 ">Wie bilde ich mir eine Meinung in der digitalen Welt?</div>
+  </div>
   </aside>
   <main class="mx-10 mt-10 lg:mx-0">
 
